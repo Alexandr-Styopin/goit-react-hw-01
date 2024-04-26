@@ -1,8 +1,8 @@
 import PropTypes from "prop-types";
 
 import css from "../App/App.module.css";
-import Profile from "../SocProfile/Profile";
-import FriendList from "../Friends/FriendList/FriendList";
+import Profile from "../Profile/Profile";
+import FriendList from "../FriendList/FriendList";
 import TransactionHistory from "../TransactionHistory/TransactionHistory";
 
 import user from "../../pach/to/user.json";

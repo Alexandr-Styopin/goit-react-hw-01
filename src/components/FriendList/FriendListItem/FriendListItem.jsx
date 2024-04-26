@@ -1,6 +1,6 @@
-import css from "../FrientsItem/FriendItem.module.css";
+import css from "./FriendListItem.module.css";
 
-export default function FriendItems({ avatar, name, isOnline }) {
+export default function FriendListItem({ avatar, name, isOnline }) {
   const status = isOnline ? css.statusOnline : css.statusOffline;
   return (
     <li className={css.item}>
