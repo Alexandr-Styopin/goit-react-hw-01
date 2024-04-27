@@ -1,0 +1,5 @@
+.td:not(:first-child) {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-left: solid 1px #769cff;
+}
