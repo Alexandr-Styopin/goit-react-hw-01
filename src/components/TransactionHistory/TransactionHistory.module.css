@@ -1,4 +1,4 @@
-table {
+.tablebody {
   table-layout: fixed;
   text-align: center;
   width: 60%;
@@ -6,7 +6,7 @@ table {
   box-shadow: 3px 2px 9px -3px #757575;
 }
 
-thead {
+/* thead {
   background-color: #769cff;
 }
 
@@ -41,4 +41,4 @@ tbody tr:nth-child(even) {
 
 table {
   background-color: #769cff;
-}
+} */
